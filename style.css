@@ -376,6 +376,16 @@ a.slicknav_btn {
 	padding: 30px 50px;
 }
 
+@media only screen and (max-width: 1000px) {
+
+	.book-a-car {
+		background-color: rgba(255, 255, 255, 0.8);
+		margin-top: 15px;
+		padding: 30px 50px;
+	}
+
+}
+
 .book-a-car select.custom-select {
 	background-image: url("assets/img/caret-cion.png");
 	background-position: right 13px center;
